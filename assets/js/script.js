@@ -21,7 +21,7 @@ const translateOpenAI_URL = "https://api.openai.com/v1/audio/translations";
 const transcribeOpenAI_URL = "https://api.openai.com/v1/audio/transcriptions";
 
 const headers = {
-  Authorization: `Bearer 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`,
+  Authorization: `Bearer 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`,
 };
 
 async function audioToText(selectedAudioFile, selectedConversionType) {
